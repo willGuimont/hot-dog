@@ -2,7 +2,7 @@
 	let uploaded, fileinput, isHotDog;
 
 	const getInference = (img) => {
-		var req = new Request("http://127.0.0.1:8000/predict", {
+		var req = new Request("http://localhost:9000/predict", {
 			method: "POST",
 			mode: "cors",
 			cache: "no-cache",
