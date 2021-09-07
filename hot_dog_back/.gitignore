@@ -1,0 +1,9 @@
+/venv/
+/.idea/
+/data/
+/tb_logs/
+/optuna_saves/
+/lightning_logs/
+/checkpoints/
+__pycache__
+/model_checkpoints/

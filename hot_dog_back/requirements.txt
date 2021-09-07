@@ -1,0 +1,15 @@
+matplotlib
+tensorboard
+tqdm
+torch
+torchvision
+pytorch-lightning
+optuna
+numpy
+Pillow
+plotly
+scikit-learn
+
+fastapi
+uvicorn[standard]
+python-multipart
